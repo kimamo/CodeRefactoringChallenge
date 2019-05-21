@@ -1,0 +1,11 @@
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/obj/Debug/netcoreapp2.2/refactoring.csprojAssemblyReference.cache
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/obj/Debug/netcoreapp2.2/refactoring.csproj.CoreCompileInputs.cache
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/obj/Debug/netcoreapp2.2/refactoring.AssemblyInfoInputs.cache
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/obj/Debug/netcoreapp2.2/refactoring.AssemblyInfo.cs
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/bin/Debug/netcoreapp2.2/refactoring.deps.json
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/bin/Debug/netcoreapp2.2/refactoring.runtimeconfig.json
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/bin/Debug/netcoreapp2.2/refactoring.runtimeconfig.dev.json
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/bin/Debug/netcoreapp2.2/refactoring.dll
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/bin/Debug/netcoreapp2.2/refactoring.pdb
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/obj/Debug/netcoreapp2.2/refactoring.dll
+/Users/kimamo/Google Drive/codebase/Bench/refactoring/obj/Debug/netcoreapp2.2/refactoring.pdb
